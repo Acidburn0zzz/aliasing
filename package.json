@@ -2,7 +2,7 @@
     "name": "42yeah.aliasing",
     "title": "aliasing",
     "description": "Disable that anti-aliasing stuff on Mac. Horray jagged fonts! Never tested on other systems.",
-    "homepage": "",
+    "homepage": "https://github.com/POTION4/aliasing",
     "version": "1.0.0",
     "author": "42yeah potion@live.cn(https://potion4.github.io)",
     "license": "public domain",
