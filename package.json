@@ -2,12 +2,23 @@
     "name": "42yeah.aliasing",
     "title": "aliasing",
     "description": "Disable that anti-aliasing stuff on Mac. Horray jagged fonts! Never tested on other systems.",
+    "description[en]": "Disable that anti-aliasing stuff on Mac. Horray jagged fonts! Never tested on other systems.",
+    "description[fr-BE]": "Désactivez ce genre d'anti-aliasing sur Mac. Les horribles polices déchiquetées! Encore non testé sur d'autres OS, mais dépends aussi du gestionnaire de fenetres ou de l'environement de bureau.",
+    "description[fr-FR]": "Désactivez ce genre d'anti-aliasing sur Mac. Les horribles polices déchiquetées! Encore non testé sur d'autres OS, mais dépends aussi du gestionnaire de fenetres ou de l'environement de bureau.",
+    "description[fr]": "Désactivez ce genre d'anti-aliasing sur Mac. Les horribles polices déchiquetées! Encore non testé sur d'autres OS, mais dépends aussi du gestionnaire de fenetres ou de l'environement de bureau.",
     "homepage": "https://github.com/POTION4/aliasing",
     "version": "1.0.0",
     "author": "42yeah potion@live.cn(https://potion4.github.io)",
+    "contributeur amateur": "Acidburn0zzz acidinside@vivaldi.net(https://acidburn0zzz.github.io)",
     "license": "public domain",
     "engines": {
         "brackets": ">=0.24.0"
     },
     "i18n": [ "en" ]
+    "archlinux engines": {
+        "brackets version": "1.14",
+        "brackets édition":  "1.14.0-17740",
+        "brackets release": "329d08ffc"
+    },
+    "i18n": [ "fr" ]
 }
