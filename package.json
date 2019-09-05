@@ -14,7 +14,6 @@
     "engines": {
         "brackets": ">=0.24.0"
     },
-    "i18n": [ "en" ]
     "archlinux engines": {
         "brackets version": "1.14",
         "brackets édition":  "1.14.0-17740",
